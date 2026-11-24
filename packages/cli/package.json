@@ -53,7 +53,7 @@
     "prepack": "pnpm run build"
   },
   "dependencies": {
-    "@clack/prompts": "^0.9.1",
+    "@clack/prompts": "^1.9.0",
     "@hono/node-server": "^2.1.6",
     "commander": "^12.1.0",
     "hono": "^4.6.14",
